@@ -1,5 +1,8 @@
 
 import './App.css'
+import FooterLinkIcons from './components/FooterLinkIcons'
+
+import SearchInput from './components/ui/SearchInput'
 import WelcomeHeader from './components/WelcomeHeader'
 
 function App() {
@@ -8,8 +11,9 @@ function App() {
     <>
   
       <WelcomeHeader />
-   
-    
+   <SearchInput />  
+
+<FooterLinkIcons />
     </>
   )
 }

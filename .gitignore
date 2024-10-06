@@ -25,6 +25,9 @@ dist-ssr
 
 # TypeScript build info files
 *.tsbuildinfo
+tsconfig.app.tsbuildinfo
 
 # Vite generated files
 vite-env.d.ts
+build/assets/main-DzJmpjd6.js
+build/assets/main-Ccbx4iE5.css

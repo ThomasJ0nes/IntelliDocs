@@ -4,6 +4,6 @@
 
 /* Set width and height of the extension */
 body {
-  @apply w-[350px] min-h-[300px] p-4 bg-white dark:bg-gray-800;
+  @apply w-[350px] min-h-[500px] p-4 bg-white dark:bg-gray-800;
 }
 
