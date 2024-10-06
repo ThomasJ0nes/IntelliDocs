@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "InteliiDocs Chrome Extension",
+    "version": "1.0.0",
+    "description": "Navigate developer docs effortlessly to find the right solution fast.",
+    "action": {
+      "default_popup": "index.html"
+    },
+    "permissions": []
+  }
