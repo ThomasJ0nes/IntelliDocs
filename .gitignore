@@ -8,8 +8,6 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist
-dist-ssr
 *.local
 
 # Editor directories and files
@@ -29,5 +27,8 @@ tsconfig.app.tsbuildinfo
 
 # Vite generated files
 vite-env.d.ts
-build/assets/main-DzJmpjd6.js
-build/assets/main-Ccbx4iE5.css
+
+# Environment files
+.env
+.env.local
+.env.*.local
